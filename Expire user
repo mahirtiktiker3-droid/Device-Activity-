@@ -1,6 +1,6 @@
 {
   "status": "expired",
-  "expiry": true,
+  "expiry": false,
   "dialog": {
     "title": "Notice",
     "message": "This application requires your attention.",
@@ -8,7 +8,7 @@
   },
   "update": {
     "button_name": "Update Now",
-    "url": "https://bit.ly/4jjo1kK"
+    "url": "https://t.me/+1LBDR5lH7XlhZDI1"
   },
   "credit": "Powered by  API System"
 }
