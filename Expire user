@@ -3,7 +3,7 @@
   "expiry": false,
   "dialog": {
     "title": "Notice",
-    "message": "This application requires your attention.",
+    "message": "application requires your attention.",
     "exit_button": "Close"
   },
   "update": {
