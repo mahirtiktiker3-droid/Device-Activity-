@@ -1,0 +1,14 @@
+{
+  "status": "expired",
+  "expiry": true,
+  "dialog": {
+    "title": "Notice",
+    "message": "application requires your attention.",
+    "exit_button": "Close"
+  },
+  "update": {
+    "button_name": "Update Now",
+    "url": "https://t.me/+1LBDR5lH7XlhZDI1"
+  },
+  "credit": "Powered by  API System"
+}
