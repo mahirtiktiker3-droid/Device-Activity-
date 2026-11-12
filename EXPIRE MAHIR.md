@@ -8,7 +8,7 @@
   },
   "update": {
     "button_name": "Update Now",
-    "url": "https://t.me/+1LBDR5lH7XlhZDI1"
+    "url": "https://t.me/+Smj1xH9ZSJ5mNDBl"
   },
   "credit": "Powered by  API System"
 }
