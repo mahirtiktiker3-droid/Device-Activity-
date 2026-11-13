@@ -1,6 +1,6 @@
 {
   "status": "expired",
-  "expiry":false,
+  "expiry": false,
   "dialog": {
     "title": "Notice",
     "message": "application requires your attention.",
